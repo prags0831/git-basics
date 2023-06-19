@@ -1,1 +1,4 @@
 Working on nice feature!
+Working a stash feature
+Another awesome feature!
+git push feature
